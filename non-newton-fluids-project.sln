@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Python4", "Python4\Python4.pyproj", "{5F530B1D-1E11-4FF7-A27C-661BF9163095}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "non-newton-fluids", "Python4\non-newton-fluids.pyproj", "{5F530B1D-1E11-4FF7-A27C-661BF9163095}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
